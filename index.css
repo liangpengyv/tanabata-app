@@ -6,24 +6,15 @@ body {
 .main {
     width: 100%;
     text-align: center;
-    margin-top: 30px;
-}
-
-.main .g1 {
-    display: block;
-}
-
-.main .g2 {
-    display: block;
-    margin-top: -20px;
+    margin-top: 50px;
 }
 
 .question {
     text-align: center;
     width: 80%;
-    height: 160px;
+    height: 230px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 150px;
     z-index: 10;
     border: double 6px #999;
     border-radius: 15px;
@@ -34,18 +25,15 @@ body {
 .question h2 {
     color: #666;
     margin-top: 20px;
-    font-size: xx-large;
+    font-size: 50px;
 }
 
 .question .operate .btn {
-    width: 129px;
-    height: 50px;
+    width: 150px;
+    height: 80px;
     background-color: #9AE5FF;
     border: solid 1px #999;
-    cursor: pointer;
-    outline: none;
-    margin-right: 10px;
-    font-size: x-large;
+    font-size: 40px;
 }
 
 .question .operate .btn:active {
